@@ -11,9 +11,9 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/ZfgsLnqogQE)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Empieza a programar**: [Abrir Jdoodle - Hola mundo](https://www.jdoodle.com/online-java-compiler)
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
@@ -62,4 +62,5 @@ NRC [Número de NRC]
 **Nombre del equipo**: [Nombre de tu equipo]
 **Líder del equipo**: [Nombres y Apellidos]
 **Integrantes del equipo**: [Nombres y Apellidos]
+
 **Fecha de entrega**: [Fecha]
