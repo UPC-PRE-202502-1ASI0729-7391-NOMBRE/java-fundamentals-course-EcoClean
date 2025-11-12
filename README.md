@@ -9,12 +9,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course-
 teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 ## Secuencia de la Lección
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
+### Lección 1: ¿Qué es Java y la Programación? (8 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace**: [Ver la lección](https://youtu.be/ZfgsLnqogQE)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir Jdoodle - Hola mundo](https://www.jdoodle.com/online-java-compiler)
-### Lección 2: Variables y tipos de datos (8 minutos)
+### Lección 2: Variables y tipos de datos (10 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
@@ -34,7 +34,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y próximos pasos (10 minutos)
+### Lección 6: Consejos y próximos pasos (5 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
@@ -64,3 +64,4 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
