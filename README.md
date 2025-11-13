@@ -24,11 +24,11 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Enlace**: [Ver la lección](https://youtu.be/jKostxBPOyE?si=WTLh1QLycRvrDy7K)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (15 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/K_iitLqIYe8)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No necesitas registrarte!**
 ### Lección 5: Fundamentos de POO y programas sencillos (16 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://youtu.be/YWx2ytLQmTA)
@@ -48,7 +48,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
+| 4 | Métodos y clases | [JDoodle](https://www.jdoodle.com/ga/GcgZDhzTRNSt1qZHa5KVQA%3D%3D) |
 | 5 | Programa OOP | [JDoodle](https://www.jdoodle.com/ga/6QOpD%2FzAn%2BebBztKnFs%2BFA%3D%3D) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
@@ -66,6 +66,7 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
 
 
 
