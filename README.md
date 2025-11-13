@@ -14,14 +14,14 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Enlace**: [Ver la lección](https://youtu.be/ZfgsLnqogQE)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir Jdoodle - Hola mundo](https://www.jdoodle.com/online-java-compiler)
-### Lección 2: Variables y tipos de datos (10 minutos)
+### Lección 2: Variables y tipos de datos (11 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/22G7VBmgH-Q?si=U00QCQrB1Jb7Am05)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+### Lección 3: Estructuras de control: Decisiones y bucles (7 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/jKostxBPOyE?si=WTLh1QLycRvrDy7K)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
@@ -66,6 +66,7 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
 
 
 
