@@ -18,12 +18,12 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://youtu.be/22G7VBmgH-Q?si=U00QCQrB1Jb7Am05)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 ### Lección 3: Estructuras de control: Decisiones y bucles (7 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://youtu.be/jKostxBPOyE?si=WTLh1QLycRvrDy7K)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
@@ -66,6 +66,7 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
 
 
 
