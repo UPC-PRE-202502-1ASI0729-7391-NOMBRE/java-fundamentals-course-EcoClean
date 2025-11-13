@@ -29,7 +29,7 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (16 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://youtu.be/YWx2ytLQmTA)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
@@ -66,6 +66,7 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
 
 
 
