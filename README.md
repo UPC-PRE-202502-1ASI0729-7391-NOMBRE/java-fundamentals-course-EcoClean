@@ -31,9 +31,9 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/YWx2ytLQmTA)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y próximos pasos (5 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/1ZMIGj0Gn5Y)
@@ -42,13 +42,15 @@ teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Todas las actividades prácticas**:
+
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+| 5 | Programa OOP | [JDoodle](https://www.jdoodle.com/ga/6QOpD%2FzAn%2BebBztKnFs%2BFA%3D%3D) |
+
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
@@ -64,5 +66,6 @@ NRC [Número de NRC]
 **Integrantes del equipo**: [Nombres y Apellidos]
 
 **Fecha de entrega**: [Fecha]
+
 
 
