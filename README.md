@@ -8,7 +8,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa  
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
-**📂 Repositorio de Código Fuente:**  
+**📂 Repositorio del curso:**  
 https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-EcoClean
 
 ---
@@ -117,6 +117,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
