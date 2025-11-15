@@ -9,7 +9,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
 **📂 Repositorio de Código Fuente:**  
-https://github.com/yourusername/java-fundamentals-course-teamname
+https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-EcoClean
 
 ---
 
