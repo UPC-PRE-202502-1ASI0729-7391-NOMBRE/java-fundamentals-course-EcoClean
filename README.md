@@ -58,7 +58,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 - **Conclusiones clave:**  
   - Encapsulación con getters/setters  
   - Crear un "simulador de mascotas"  
-- **Proyecto final:** https://www.jdoodle.com/online-java-compiler
+- **Proyecto final:** https://www.jdoodle.com/ia/1N5d
 
 ---
 
@@ -116,6 +116,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** 16/11/2025
+
 
 
 
