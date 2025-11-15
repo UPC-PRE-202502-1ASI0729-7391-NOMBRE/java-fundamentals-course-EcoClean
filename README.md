@@ -88,7 +88,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 
 
 ### **Cuestionario**
-https://forms.gle/your-quiz
+[https://forms.gle/Java-basic](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JAVA)
 
 ### **Compartir**
 Usa el hashtag: **#JavaBeginners**
@@ -116,6 +116,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
