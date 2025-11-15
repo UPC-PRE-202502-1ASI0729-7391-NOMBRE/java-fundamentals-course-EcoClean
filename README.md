@@ -27,7 +27,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 - **Descripción:** Aprende a almacenar datos en Java usando variables.  
 - **Video:** https://youtu.be/22G7VBmgH-Q?si=U00QCQrB1Jb7Am05  
 - **Conclusiones clave:** Uso de `int`, `String`; ejemplo básico: `int age = 15;`  
-- **Práctica:** https://www.jdoodle.com/online-java-compiler
+- **Práctica:** https://www.jdoodle.com/ga/wiXI3zIlO8tAUyy%2FWdHH3w%3D%3D 
 
 ---
 
@@ -116,6 +116,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
