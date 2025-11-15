@@ -68,24 +68,24 @@ https://github.com/yourusername/java-fundamentals-course-teamname
 - **Consejos clave:**  
   - Depuración de errores  
   - Uso de documentación oficial de Oracle Java  
-- **Compartir tu trabajo:** https://forms.gle/your-form
 
 ---
 
 ## 🧩 Recursos adicionales
 
 ### **Código fuente completo**
-https://github.com/yourusername/java-fundamentals-course-teamname
 
-### **Actividades prácticas**
 
-| # | Actividad | Comenzar |
+### **Un poco de información**
+
+| # | Actividad | Recurso |
 |---|-----------|----------|
-| 1 | Hola Mundo | https://replit.com/@your-lesson1 |
-| 2 | Variables | https://replit.com/@your-lesson2 |
-| 3 | Bucles | https://jdoodle.com/execute-java-online/your-lesson3 |
-| 4 | Métodos y clases | https://www.jdoodle.com/ga/GcgZDhzTRNSt1qZHa5KVQA%3D%3D |
-| 5 | Programa OOP | https://www.jdoodle.com/ga/6QOpD%2FzAn%2BebBztKnFs%2BFA%3D%3D |
+| 1 | Hola Mundo | https://www.w3schools.com/java/java_intro.asp |
+| 2 | Variables | https://www.w3schools.com/java/java_variables.asp |
+| 3 | Bucles | https://www.w3schools.com/java/java_for_loop.asp |
+| 4 | Métodos y clases | https://www.w3schools.com/java/java_classes.asp |
+| 5 | Programa OOP | https://www.w3schools.com/java/java_oop.asp |
+
 
 ### **Cuestionario**
 https://forms.gle/your-quiz
@@ -116,4 +116,5 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
