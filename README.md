@@ -19,7 +19,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 - **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.  
 - **Video:** https://youtu.be/ZfgsLnqogQE  
 - **Conclusiones clave:** Java se usa para aplicaciones, juegos y sistemas; los programas son instrucciones para computadoras.  
-- **Práctica:** https://www.jdoodle.com/online-java-compiler
+- **Práctica:** https://www.jdoodle.com/ia/1N55
 
 ---
 
@@ -117,6 +117,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
