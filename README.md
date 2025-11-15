@@ -37,7 +37,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 - **Conclusiones clave:**  
   - `if (age > 12) {}`  
   - `for (int i = 0; i < 5; i++) {}`  
-- **Práctica:** https://www.jdoodle.com/online-java-compiler
+- **Práctica:** https://www.jdoodle.com/ia/1N59
 
 ---
 
@@ -116,6 +116,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
