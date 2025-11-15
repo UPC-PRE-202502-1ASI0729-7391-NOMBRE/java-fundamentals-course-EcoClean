@@ -68,6 +68,7 @@ https://github.com/yourusername/java-fundamentals-course-teamname
 - **Consejos clave:**  
   - Depuración de errores  
   - Uso de documentación oficial de Oracle Java  
+- **Práctica:** https://www.jdoodle.com/online-java-compiler
 
 ---
 
@@ -116,6 +117,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
