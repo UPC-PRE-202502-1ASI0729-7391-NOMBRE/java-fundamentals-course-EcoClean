@@ -107,15 +107,16 @@ Usa el hashtag: **#JavaBeginners**
 **Curso:** 1ASI0729 – Desarrollo de Aplicaciones Open Source  
 **NRC:** 7391
 
-**Nombre del equipo:** [Nombre de tu equipo]  
-**Líder del equipo:** [Nombres y Apellidos]  
+**Nombre del equipo:** EcoClean
+**Líder del equipo:** Avalos Cordova, Diego Andres
 **Integrantes:**  
 - Avalos Cordova, Diego Andres   
-- [Nombre 2]  
+- Cárdenas Huaman, Mathias Andree
 - [Nombre 3]
 - [Nombre 4]  
 
-**Fecha de entrega:** [Fecha]
+**Fecha de entrega:** 16/11/2025
+
 
 
 
