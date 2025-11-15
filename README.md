@@ -112,6 +112,8 @@ Usa el hashtag: **#JavaBeginners**
 **Integrantes:**  
 - Avalos Cordova, Diego Andres   
 - [Nombre 2]  
-- [Nombre 3]  
+- [Nombre 3]
+- [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
