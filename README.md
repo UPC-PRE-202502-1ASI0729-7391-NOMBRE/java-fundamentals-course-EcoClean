@@ -67,8 +67,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/java-fundamentals-course-
 - **Video:** https://youtu.be/1ZMIGj0Gn5Y  
 - **Consejos clave:**  
   - Depuración de errores  
-  - Uso de documentación oficial de Oracle Java  
-- **Práctica:** https://www.jdoodle.com/online-java-compiler
+  - Uso de documentación oficial de Oracle Java
 
 ---
 
@@ -117,6 +116,7 @@ Usa el hashtag: **#JavaBeginners**
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
