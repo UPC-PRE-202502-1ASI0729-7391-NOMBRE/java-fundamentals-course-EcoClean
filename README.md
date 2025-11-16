@@ -112,10 +112,11 @@ Usa el hashtag: **#JavaBeginners**
 **Integrantes:**  
 - Avalos Cordova, Diego Andres   
 - Cárdenas Huaman, Mathias Andree
-- [Nombre 3]
+- Carranza Tesén, Joaquín Enrique
 - [Nombre 4]  
 
 **Fecha de entrega:** 16/11/2025
+
 
 
 
