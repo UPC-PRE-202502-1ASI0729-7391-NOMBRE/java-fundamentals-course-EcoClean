@@ -113,9 +113,10 @@ Usa el hashtag: **#JavaBeginners**
 - Avalos Cordova, Diego Andres   
 - Cárdenas Huaman, Mathias Andree
 - Carranza Tesén, Joaquín Enrique
-- [Nombre 4]  
+- Piero Alberto Velarde Luyo
 
 **Fecha de entrega:** 16/11/2025
+
 
 
 
